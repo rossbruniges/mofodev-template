@@ -36,4 +36,4 @@ The class is great for when you want to theme a specific section different to th
 
 Say you had a page at /about/rules.html. I would code it up as so:
 
-<div role="main" id="rules" class="about">
+```<div role="main" id="rules" class="about">```
