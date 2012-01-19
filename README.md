@@ -24,7 +24,7 @@ I think other than the 'connect with Mozilla' section the content can be changed
 
 I would also recommend putting your branding inside of the <header> in #masthead, along with anything else you see fit.
 
-### ID and class attributes for <div role='main'>
+### ID and class attributes for ```<div role="main">```
 
 I've found these to be a great help in the past when a site grows out of the original scope of what it was intended (which to be honest is always). 
 
