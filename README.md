@@ -2,9 +2,12 @@
 
 A template that can be used as a start point for a new Mozilla Foundation project and hopefully ensure that we're all developing on a consistent base.
 
-## IMPORTANT NOTE
+----------------------------------------------------------------------------
+## Important Note
 
 With the iminent arrival of the one mozilla project http://onemozilla.org/ this will change signficantly. But if you've got a desparate need for a site now then please use.
+
+----------------------------------------------------------------------------
 
 ## Responsive design
 
