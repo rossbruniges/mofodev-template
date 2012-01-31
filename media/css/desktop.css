@@ -13,6 +13,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 .col img {
     width: 100%;
 }
+.external .col:first-child {
+    padding-left: 0;
+}
 /* Masthead */
 .masthead nav {
     float: right;
