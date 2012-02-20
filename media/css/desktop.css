@@ -19,7 +19,6 @@ Default template CSS - if you change anything here then updating will be a bit m
 /* Masthead */
 .masthead nav {
     float: right;
-    margin-right: 130px;
 }
 /**= Overrides from devices.css */
 .busta {
